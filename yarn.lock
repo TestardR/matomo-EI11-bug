@@ -1094,6 +1094,18 @@
   resolved "https://registry.yarnpkg.com/@csstools/normalize.css/-/normalize.css-10.1.0.tgz#f0950bba18819512d42f7197e56c518aa491cf18"
   integrity sha512-ij4wRiunFfaJxjB0BdrYHIH8FxBJpOwNPhhAcunlmPdXudL1WQV1qoP9un6JsEBAgQH+7UXyyjh0g7jTxXK6tg==
 
+"@datapunt/matomo-tracker-js@^0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@datapunt/matomo-tracker-js/-/matomo-tracker-js-0.2.1.tgz#202bc6215c7209893ffc04ca69bc2c98063b076e"
+  integrity sha512-XI4xXpBS4S3BKl9wO6uda7GM/LUreS2N5Ep1cAtpIrKm4pZXTwF5Du/Qpv1HyBWoEjjCpRM7jIvyfrcVzEAQqg==
+
+"@datapunt/matomo-tracker-react@^0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@datapunt/matomo-tracker-react/-/matomo-tracker-react-0.2.1.tgz#764554dfc3817b5f21dc57ef4c5217b5adb426d6"
+  integrity sha512-7PN+IsjF5rL85U52dSbY1tsdrBIkAp/qRS3eLWZSK2seLk4KoluuKUoVZRH/FvVX/nv43GKtjooYErui3UPH4Q==
+  dependencies:
+    "@datapunt/matomo-tracker-js" "^0.2.1"
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
